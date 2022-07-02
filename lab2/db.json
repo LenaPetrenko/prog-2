@@ -1,0 +1,21 @@
+{
+    "sites": [
+        {
+            "site": "yandex.ru",
+            "login": "RCk8w/4+qeW7W3sQrkozfglY8gKlplgup5I3CA==",
+            "password": "GHlikOJ+/KA="
+        },
+
+        {
+            "site": "vk.com",
+            "login": "EHVjl+B++KfwDiw=",
+            "password": "eBoc0LwvoKH8Hw=="
+        },
+
+        {
+            "site": "fit.mospolytech.ru",
+            "login": "GHlikOJ+/KA=",
+            "password": "ZCk8w+B7vPS9THAVqgt+"
+        }
+    ]
+}
